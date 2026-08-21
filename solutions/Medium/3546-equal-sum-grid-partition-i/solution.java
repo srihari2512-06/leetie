@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Matrix, Enumeration, Prefix Sum
 // Link     : https://leetcode.com/problems/equal-sum-grid-partition-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42788000 (beats 0%)
+// Runtime  : 4 ms (beats 94%)
+// Memory   : 163496000 (beats 31%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
