@@ -4,7 +4,7 @@
 // Tags     : Hash Table, String, Sliding Window
 // Link     : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 42580000 (beats 0%)
+// Memory   : 41988000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
@@ -15,8 +15,8 @@ class Solution {
         HashSet<Character> map = new HashSet<>();
         int left = 0;
         int maxlen = 0;
-        for(int right =0;right<s.length()-1;right++){
-            if(map.contains(s.charAt(right))){
+        for(int right =0;right<s.length();right++){
+            while(map.contains(s.charAt(right))){
                 map.remove(s.charAt(left));
                 left++;
             }
