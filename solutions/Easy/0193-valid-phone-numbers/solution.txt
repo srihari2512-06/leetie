@@ -1,0 +1,14 @@
+// ──────────────────────────────────────────────────
+// Problem  : 193. Valid Phone Numbers
+// Difficulty: Easy
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/valid-phone-numbers/
+// Runtime  : 77 ms (beats 7%)
+// Memory   : 3420000 (beats 69%)
+// Language : bash
+// Copyright: (c) 2026 srihari2512-06. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+# Read from the file file.txt and output all valid phone numbers to stdout.
+grep -E '^([0-9]{3}-|\([0-9]{3}\) )[0-9]{3}-[0-9]{4}$' file.txt
