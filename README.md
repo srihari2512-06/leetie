@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 23 Solved
+## Progress Summary: 24 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
 | kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
+| permutations | Permutations | Medium | java | [Problem](https://leetcode.com/problems/permutations/) | [Solution](./solutions/Medium/0046-permutations/solution.java) |
 | trapping-rain-water | 42. Trapping Rain Water | Hard | python3 | [Problem](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./solutions/Hard/0042-trapping-rain-water/solution.py) |
 | remove-covered-intervals | 1288. Remove Covered Intervals | Medium | java | [Problem](https://leetcode.com/problems/remove-covered-intervals/) | [Solution](./solutions/Medium/1288-remove-covered-intervals/solution.java) |
 | cinema-seat-allocation | 1386. Cinema Seat Allocation | Medium | java | [Problem](https://leetcode.com/problems/cinema-seat-allocation/) | [Solution](./solutions/Medium/1386-cinema-seat-allocation/solution.java) |
