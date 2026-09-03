@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 36 Solved
+## Progress Summary: 37 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,11 +19,12 @@
 | cinema-seat-allocation | 1386. Cinema Seat Allocation | Medium | java | [Problem](https://leetcode.com/problems/cinema-seat-allocation/) | [Solution](./solutions/Medium/1386-cinema-seat-allocation/solution.java) |
 | find-the-string-with-lcp | 2573. Find The String With Lcp | Hard | java | [Problem](https://leetcode.com/problems/find-the-string-with-lcp/) | [Solution](./solutions/Hard/2573-find-the-string-with-lcp/solution.java) |
 | kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
+| equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
+| maximal-score-after-applying-k-operations | Maximal Score After Applying K Operations | Medium | java | [Problem](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Solution](./solutions/Medium/2530-maximal-score-after-applying-k-operations/solution.java) |
 | maximize-the-minimum-powered-city | Maximize the Minimum Powered City | Hard | java | [Problem](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Solution](./solutions/Hard/2528-maximize-the-minimum-powered-city/solution.java) |
 | maximum-count-of-positive-integer-and-negative-integer | Maximum Count of Positive Integer and Negative Integer | Easy | java | [Problem](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Solution](./solutions/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/solution.java) |
 | minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | java | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.java) |
-| minimum-number-of-coins-for-fruits | 2944. Minimum Number Of Coins For Fruits | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/) | [Solution](./solutions/Medium/2944-minimum-number-of-coins-for-fruits/solution.java) |
 | permutations | Permutations | Medium | java | [Problem](https://leetcode.com/problems/permutations/) | [Solution](./solutions/Medium/0046-permutations/solution.java) |
 | rectangle-area | Rectangle Area | Medium | java | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.java) |
 | score-of-parentheses | Score of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
@@ -37,7 +38,7 @@
 | subarray-sum-equals-k | 560. Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | remove-covered-intervals | 1288. Remove Covered Intervals | Medium | java | [Problem](https://leetcode.com/problems/remove-covered-intervals/) | [Solution](./solutions/Medium/1288-remove-covered-intervals/solution.java) |
 | stone-game-viii | 1872. Stone Game Viii | Hard | java | [Problem](https://leetcode.com/problems/stone-game-viii/) | [Solution](./solutions/Hard/1872-stone-game-viii/solution.java) |
-| equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
+| minimum-number-of-coins-for-fruits | 2944. Minimum Number Of Coins For Fruits | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/) | [Solution](./solutions/Medium/2944-minimum-number-of-coins-for-fruits/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
