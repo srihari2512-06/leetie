@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Binary Search, Counting
 // Link     : https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42620000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 46008000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
