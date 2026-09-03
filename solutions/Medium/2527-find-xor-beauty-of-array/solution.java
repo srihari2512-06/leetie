@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Bit Manipulation
 // Link     : https://leetcode.com/problems/find-xor-beauty-of-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42464000 (beats 0%)
+// Runtime  : 1 ms (beats 96%)
+// Memory   : 70888000 (beats 43%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
