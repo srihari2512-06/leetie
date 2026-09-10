@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 54 Solved
+## Progress Summary: 55 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | java | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.java) |
 | house-robber-ii | House Robber II | Medium | java | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | longest-substring-without-repeating-characters | 3. Longest Substring Without Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./solutions/Medium/0003-longest-substring-without-repeating-characters/solution.java) |
