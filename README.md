@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 58 Solved
+## Progress Summary: 59 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| smallest-stable-index-i | Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | longest-substring-without-repeating-characters | 3. Longest Substring Without Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./solutions/Medium/0003-longest-substring-without-repeating-characters/solution.java) |
 | zigzag-conversion | 6. Zigzag Conversion | Medium | java | [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./solutions/Medium/0006-zigzag-conversion/solution.java) |
@@ -64,15 +65,3 @@
 | equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3903-smallest-stable-index-i](https://github.com/srihari2512-06/leetie/tree/main/3903-smallest-stable-index-i/) | Easy |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3903-smallest-stable-index-i](https://github.com/srihari2512-06/leetie/tree/main/3903-smallest-stable-index-i/) | Easy |
-<!---LeetCode Topics End-->
