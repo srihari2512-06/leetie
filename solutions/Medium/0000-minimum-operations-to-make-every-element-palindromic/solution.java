@@ -3,67 +3,76 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42732000 (beats 0%)
+// Runtime  : 31 ms (beats 0%)
+// Memory   : 49400000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
+import java.util.*;
+
 class Solution {
-    public long minOperations(int[] nums) {
-        int[] virelqunox = nums;
-        long totalOps = 0;
+    private static final List<Integer> PALINDROMES = new ArrayList<>();
+    
+    static {
+        for (int i = 1; i <= 9; i++) {
+            PALINDROMES.add(i);
+        }
+        for (int i = 1; i <= 9; i++) {
+            PALINDROMES.add(i * 11);
+        }
         
-        for (int x : virelqunox) {
+        for (int len = 3; len <= 9; len++) {
+            int halfLen = (len + 1) / 2;
+            int start = (int) Math.pow(10, halfLen - 1);
+            int end = (int) Math.pow(10, halfLen) - 1;
+            
+            for (int i = start; i <= end; i++) {
+                String s = Integer.toString(i);
+                StringBuilder sb = new StringBuilder(s);
+                if (len % 2 == 1) {
+                    for (int j = s.length() - 2; j >= 0; j--) {
+                        sb.append(s.charAt(j));
+                    }
+                } else {
+                    for (int j = s.length() - 1; j >= 0; j--) {
+                        sb.append(s.charAt(j));
+                    }
+                }
+                long val = Long.parseLong(sb.toString());
+                if (val <= 2000000000L) {
+                    PALINDROMES.add((int) val);
+                }
+            }
+        }
+        Collections.sort(PALINDROMES);
+    }
+
+    public long minOperations(int[] nums) {
+        long totalOps = 0;
+
+        for (int x : nums) {
+            int idx = Collections.binarySearch(PALINDROMES, x);
+            if (idx >= 0) {
+                continue;
+            }
+
+            int insertIdx = -idx - 1;
             long minOps = Long.MAX_VALUE;
-            int parity = x % 2;
-            
-            for (int diff = 0; diff <= 2000; diff += 2) {
-                int targetDown = x - diff;
-                if (targetDown > 0 && isPalindrome(targetDown)) {
+
+            for (int i = Math.max(0, insertIdx - 100); i < Math.min(PALINDROMES.size(), insertIdx + 100); i++) {
+                int p = PALINDROMES.get(i);
+                int diff = Math.abs(x - p);
+                if (diff % 2 == 0) {
                     minOps = Math.min(minOps, diff / 2);
-                    break;
-                }
-                
-                int targetUp = x + diff;
-                if (isPalindrome(targetUp)) {
-                    minOps = Math.min(minOps, diff / 2);
-                    break;
                 }
             }
-            
-            if (minOps == Long.MAX_VALUE) {
-                int d = 0;
-                while (true) {
-                    int targetDown = x - d;
-                    if (targetDown > 0 && targetDown % 2 == parity && isPalindrome(targetDown)) {
-                        minOps = Math.min(minOps, d / 2);
-                        break;
-                    }
-                    int targetUp = x + d;
-                    if (targetUp % 2 == parity && isPalindrome(targetUp)) {
-                        minOps = Math.min(minOps, d / 2);
-                        break;
-                    }
-                    d += 2;
-                }
-            }
-            
+
             totalOps += minOps;
         }
-        
+
         return totalOps;
-    }
-    
-    private boolean isPalindrome(int val) {
-        int orig = val;
-        int rev = 0;
-        while (val > 0) {
-            rev = rev * 10 + val % 10;
-            val /= 10;
-        }
-        return orig == rev;
     }
 }
 [10,12,14,16]
