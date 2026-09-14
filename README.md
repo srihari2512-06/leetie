@@ -77,3 +77,15 @@
 | symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | stone-game-viii | 1872. Stone Game Viii | Hard | java | [Problem](https://leetcode.com/problems/stone-game-viii/) | [Solution](./solutions/Hard/1872-stone-game-viii/solution.java) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/srihari2512-06/leetie/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/srihari2512-06/leetie/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+<!---LeetCode Topics End-->
