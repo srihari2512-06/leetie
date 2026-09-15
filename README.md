@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 72 Solved
+## Progress Summary: 73 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -44,20 +44,28 @@
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | count-values-with-equally-spaced-occurrences-ii | Count Values With Equally Spaced Occurrences II | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/4414-count-values-with-equally-spaced-occurrences-ii/solution.java) |
 | cyclically-shift-rows-and-columns | Cyclically Shift Rows and Columns | Easy | java | [Problem](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Solution](./solutions/Easy/4416-cyclically-shift-rows-and-columns/solution.java) |
+| design-skiplist | 1206. Design Skiplist | Hard | java | [Problem](https://leetcode.com/problems/design-skiplist/) | [Solution](./solutions/Hard/1206-design-skiplist/solution.java) |
 | distinct-subsequences | Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | find-minimum-in-rotated-sorted-array-ii | 154. Find Minimum In Rotated Sorted Array Ii | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | freedom-trail | 514. Freedom Trail | Hard | java | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.java) |
 | flood-fill | 733. Flood Fill | Easy | java | [Problem](https://leetcode.com/problems/flood-fill/) | [Solution](./solutions/Easy/0733-flood-fill/solution.java) |
+| distinct-subsequences-ii | 940. Distinct Subsequences Ii | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.java) |
 | element-appearing-more-than-25-in-sorted-array | 1287. Element Appearing More Than 25 In Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Solution](./solutions/Easy/1287-element-appearing-more-than-25-in-sorted-array/solution.java) |
+| find-consecutive-integers-from-a-data-stream | 2526. Find Consecutive Integers From A Data Stream | Medium | java | [Problem](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Solution](./solutions/Medium/2526-find-consecutive-integers-from-a-data-stream/solution.java) |
+| find-xor-beauty-of-array | 2527. Find Xor Beauty Of Array | Medium | java | [Problem](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Solution](./solutions/Medium/2527-find-xor-beauty-of-array/solution.java) |
+| maximize-the-minimum-powered-city | 2528. Maximize The Minimum Powered City | Hard | java | [Problem](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Solution](./solutions/Hard/2528-maximize-the-minimum-powered-city/solution.java) |
+| maximal-score-after-applying-k-operations | 2530. Maximal Score After Applying K Operations | Medium | java | [Problem](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Solution](./solutions/Medium/2530-maximal-score-after-applying-k-operations/solution.java) |
+| find-the-string-with-lcp | 2573. Find The String With Lcp | Hard | java | [Problem](https://leetcode.com/problems/find-the-string-with-lcp/) | [Solution](./solutions/Hard/2573-find-the-string-with-lcp/solution.java) |
+| minimum-number-of-coins-for-fruits | 2944. Minimum Number Of Coins For Fruits | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/) | [Solution](./solutions/Medium/2944-minimum-number-of-coins-for-fruits/solution.java) |
+| make-lexicographically-smallest-array-by-swapping-elements | 2948. Make Lexicographically Smallest Array By Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
 | distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
 | image-overlap | Image Overlap | Medium | java | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.java) |
+| kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
+| equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
+| maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | minimum-cost-to-hire-k-workers | 857. Minimum Cost To Hire K Workers | Hard | java | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.java) |
-| distinct-subsequences-ii | 940. Distinct Subsequences Ii | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.java) |
-| design-skiplist | 1206. Design Skiplist | Hard | java | [Problem](https://leetcode.com/problems/design-skiplist/) | [Solution](./solutions/Hard/1206-design-skiplist/solution.java) |
 | merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
-| maximize-the-minimum-powered-city | 2528. Maximize The Minimum Powered City | Hard | java | [Problem](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Solution](./solutions/Hard/2528-maximize-the-minimum-powered-city/solution.java) |
 | maximum-count-of-positive-integer-and-negative-integer | 2529. Maximum Count Of Positive Integer And Negative Integer | Easy | java | [Problem](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Solution](./solutions/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/solution.java) |
-| find-the-string-with-lcp | 2573. Find The String With Lcp | Hard | java | [Problem](https://leetcode.com/problems/find-the-string-with-lcp/) | [Solution](./solutions/Hard/2573-find-the-string-with-lcp/solution.java) |
 | minimum-days-to-score-exactly-n-points | Minimum Days to Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | Minimum Operations to Make Every Element Palindromic | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/0000-minimum-operations-to-make-every-element-palindromic/solution.java) |
 | rectangle-overlap | Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
@@ -70,31 +78,4 @@
 | sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | trapping-rain-water | 42. Trapping Rain Water | Hard | python3 | [Problem](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./solutions/Hard/0042-trapping-rain-water/solution.py) |
 | symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
-| find-consecutive-integers-from-a-data-stream | 2526. Find Consecutive Integers From A Data Stream | Medium | java | [Problem](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Solution](./solutions/Medium/2526-find-consecutive-integers-from-a-data-stream/solution.java) |
-| find-xor-beauty-of-array | 2527. Find Xor Beauty Of Array | Medium | java | [Problem](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Solution](./solutions/Medium/2527-find-xor-beauty-of-array/solution.java) |
-| maximal-score-after-applying-k-operations | 2530. Maximal Score After Applying K Operations | Medium | java | [Problem](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Solution](./solutions/Medium/2530-maximal-score-after-applying-k-operations/solution.java) |
-| minimum-number-of-coins-for-fruits | 2944. Minimum Number Of Coins For Fruits | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/) | [Solution](./solutions/Medium/2944-minimum-number-of-coins-for-fruits/solution.java) |
-| make-lexicographically-smallest-array-by-swapping-elements | 2948. Make Lexicographically Smallest Array By Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
-| kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
-| equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srihari2512-06/leetie/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srihari2512-06/leetie/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srihari2512-06/leetie/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srihari2512-06/leetie/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
-<!---LeetCode Topics End-->
