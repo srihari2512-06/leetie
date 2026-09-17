@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array
 // Link     : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42568000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43376000 (beats 12%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
@@ -13,7 +13,7 @@
 class Solution {
     public boolean check(int[] nums) {
         int count = 0;
-        for(int i=0;i<nums.length-1;i++){
+        for(int i=0;i<nums.length;i++){
             if(nums[i]>nums[(i+1)%nums.length]){
                 count++;
             }
