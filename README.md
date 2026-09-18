@@ -82,3 +82,23 @@
 | equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/srihari2512-06/leetie/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/srihari2512-06/leetie/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/srihari2512-06/leetie/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/srihari2512-06/leetie/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+<!---LeetCode Topics End-->
