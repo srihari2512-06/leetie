@@ -83,3 +83,23 @@
 | equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srihari2512-06/leetie/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srihari2512-06/leetie/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srihari2512-06/leetie/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srihari2512-06/leetie/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+<!---LeetCode Topics End-->
