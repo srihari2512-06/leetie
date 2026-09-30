@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 85 Solved
+## Progress Summary: 86 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| group-anagrams | Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
 | longest-substring-without-repeating-characters | 3. Longest Substring Without Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./solutions/Medium/0003-longest-substring-without-repeating-characters/solution.java) |
 | maximum-nesting-depth-of-two-valid-parentheses-strings | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Solution](./solutions/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
