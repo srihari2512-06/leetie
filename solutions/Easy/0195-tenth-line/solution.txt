@@ -1,0 +1,21 @@
+// ──────────────────────────────────────────────────
+// Problem  : 195. Tenth Line
+// Difficulty: Easy
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/tenth-line/
+// Runtime  : 26 ms (beats 32%)
+// Memory   : 3992000 (beats 36%)
+// Language : bash
+// Copyright: (c) 2026 srihari2512-06. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+# Read from the file file.txt and output the tenth line to stdout.
+cnt=0
+while read line && [ $cnt -le 10 ]; do
+  let 'cnt = cnt + 1'
+  if [ $cnt -eq 10 ]; then
+    echo $line
+    exit 0
+  fi
+done < file.txt
