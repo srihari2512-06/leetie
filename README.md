@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 105 Solved
+## Progress Summary: 106 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -72,11 +72,12 @@
 | kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
 | equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
 | construct-uniform-parity-array-i | 3875. Construct Uniform Parity Array I | Easy | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.java) |
+| count-shadow-pairs-ii | 4326. Count Shadow Pairs Ii | Hard | python3 | [Problem](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Solution](./solutions/Hard/4326-count-shadow-pairs-ii/solution.py) |
 | count-shadow-pairs-i | 4328. Count Shadow Pairs I | Medium | java | [Problem](https://leetcode.com/problems/count-shadow-pairs-i/) | [Solution](./solutions/Medium/4328-count-shadow-pairs-i/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | 4344. Minimum Operations To Make Every Element Palindromic | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/4344-minimum-operations-to-make-every-element-palindromic/solution.py) |
 | minimum-days-to-score-exactly-n-points | 4406. Minimum Days To Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
 | count-values-with-equally-spaced-occurrences-ii | 4414. Count Values With Equally Spaced Occurrences Ii | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/4414-count-values-with-equally-spaced-occurrences-ii/solution.java) |
-| cyclically-shift-rows-and-columns | 4416. Cyclically Shift Rows And Columns | Easy | java | [Problem](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Solution](./solutions/Easy/4416-cyclically-shift-rows-and-columns/solution.java) |
+| count-values-with-equally-spaced-occurrences-i | 4415. Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | insert-interval | Insert Interval | Medium | java | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.java) |
 | jump-game | Jump Game | Medium | java | [Problem](https://leetcode.com/problems/jump-game/) | [Solution](./solutions/Medium/0055-jump-game/solution.java) |
 | length-of-last-word | Length of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
@@ -86,7 +87,6 @@
 | maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-count-of-positive-integer-and-negative-integer | 2529. Maximum Count Of Positive Integer And Negative Integer | Easy | java | [Problem](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Solution](./solutions/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/solution.java) |
 | maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
-| count-shadow-pairs-ii | 4326. Count Shadow Pairs Ii | Hard | python3 | [Problem](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Solution](./solutions/Hard/4326-count-shadow-pairs-ii/solution.py) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | minimum-path-sum | Minimum Path Sum | Medium | python | [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./solutions/Medium/0064-minimum-path-sum/solution.py) |
 | n-queens | N-Queens | Hard | java | [Problem](https://leetcode.com/problems/n-queens/) | [Solution](./solutions/Hard/0051-n-queens/solution.java) |
@@ -94,19 +94,20 @@
 | number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | permutation-sequence | Permutation Sequence | Hard | java | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.java) |
 | permutations-ii | Permutations II | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
+| plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
 | powx-n | Pow(x, n) | Medium | java | [Problem](https://leetcode.com/problems/powx-n/) | [Solution](./solutions/Medium/0050-powx-n/solution.java) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
-| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
+| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
 | spiral-matrix | Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | unique-3-digit-even-numbers | 3483. Unique 3 Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
-| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
-| count-values-with-equally-spaced-occurrences-i | 4415. Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
+| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
+| cyclically-shift-rows-and-columns | 4416. Cyclically Shift Rows And Columns | Easy | java | [Problem](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Solution](./solutions/Easy/4416-cyclically-shift-rows-and-columns/solution.java) |
 | unique-paths | Unique Paths | Medium | javascript | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.js) |
 | unique-paths-ii | Unique Paths II | Medium | java | [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./solutions/Medium/0063-unique-paths-ii/solution.java) |
 | valid-number | Valid Number | Hard | java | [Problem](https://leetcode.com/problems/valid-number/) | [Solution](./solutions/Hard/0065-valid-number/solution.java) |
