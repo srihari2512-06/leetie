@@ -4,7 +4,7 @@
 // Tags     : String, Stack, Bracket Sequences
 // Link     : https://leetcode.com/problems/score-of-parentheses/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 42628000 (beats 68%)
+// Memory   : 42896000 (beats 30%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
