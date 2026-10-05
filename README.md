@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 116 Solved
+## Progress Summary: 117 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -63,6 +63,7 @@
 | find-the-string-with-lcp | 2573. Find The String With Lcp | Hard | java | [Problem](https://leetcode.com/problems/find-the-string-with-lcp/) | [Solution](./solutions/Hard/2573-find-the-string-with-lcp/solution.java) |
 | minimum-number-of-coins-for-fruits | 2944. Minimum Number Of Coins For Fruits | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/) | [Solution](./solutions/Medium/2944-minimum-number-of-coins-for-fruits/solution.java) |
 | make-lexicographically-smallest-array-by-swapping-elements | 2948. Make Lexicographically Smallest Array By Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
+| distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
 | kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
 | equal-sum-grid-partition-i | 3546. Equal Sum Grid Partition I | Medium | java | [Problem](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Solution](./solutions/Medium/3546-equal-sum-grid-partition-i/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
@@ -86,9 +87,9 @@
 | maximum-number-of-non-overlapping-substrings | 1520. Maximum Number Of Non Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
 | merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
-| distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
 | maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
+| minimum-initial-energy-to-finish-tasks | Minimum Initial Energy to Finish Tasks | Hard | java | [Problem](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](./solutions/Hard/1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | 4344. Minimum Operations To Make Every Element Palindromic | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/4344-minimum-operations-to-make-every-element-palindromic/solution.py) |
 | minimum-days-to-score-exactly-n-points | 4406. Minimum Days To Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
 | count-values-with-equally-spaced-occurrences-ii | 4414. Count Values With Equally Spaced Occurrences Ii | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/4414-count-values-with-equally-spaced-occurrences-ii/solution.java) |
@@ -103,19 +104,19 @@
 | powx-n | Pow(x, n) | Medium | java | [Problem](https://leetcode.com/problems/powx-n/) | [Solution](./solutions/Medium/0050-powx-n/solution.java) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
-| symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | score-of-parentheses | 856. Score Of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
 | number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | separate-the-digits-in-an-array | Separate the Digits in an Array | Easy | java | [Problem](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Solution](./solutions/Easy/2553-separate-the-digits-in-an-array/solution.java) |
 | set-matrix-zeroes | Set Matrix Zeroes | Medium | java | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.java) |
 | simplify-path | Simplify Path | Medium | java | [Problem](https://leetcode.com/problems/simplify-path/) | [Solution](./solutions/Medium/0071-simplify-path/solution.java) |
-| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | spiral-matrix | Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
 | sqrtx | Sqrt(x) | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
+| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
+| symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | unique-3-digit-even-numbers | 3483. Unique 3 Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
+| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
 | unique-paths | Unique Paths | Medium | javascript | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.js) |
 | unique-paths-ii | Unique Paths II | Medium | java | [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./solutions/Medium/0063-unique-paths-ii/solution.java) |
