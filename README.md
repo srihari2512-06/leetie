@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 118 Solved
+## Progress Summary: 119 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -55,6 +55,7 @@
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | 2058. Find The Minimum And Maximum Number Of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
 | count-nodes-equal-to-average-of-subtree | 2265. Count Nodes Equal To Average Of Subtree | Medium | java | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.java) |
 | check-if-there-is-a-valid-parentheses-string-path | 2267. Check If There Is A Valid Parentheses String Path | Hard | python3 | [Problem](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](./solutions/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/solution.py) |
+| categorize-box-according-to-criteria | 2525. Categorize Box According To Criteria | Easy | java | [Problem](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Solution](./solutions/Easy/2525-categorize-box-according-to-criteria/solution.java) |
 | find-consecutive-integers-from-a-data-stream | 2526. Find Consecutive Integers From A Data Stream | Medium | java | [Problem](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Solution](./solutions/Medium/2526-find-consecutive-integers-from-a-data-stream/solution.java) |
 | find-xor-beauty-of-array | 2527. Find Xor Beauty Of Array | Medium | java | [Problem](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Solution](./solutions/Medium/2527-find-xor-beauty-of-array/solution.java) |
 | maximize-the-minimum-powered-city | 2528. Maximize The Minimum Powered City | Hard | java | [Problem](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Solution](./solutions/Hard/2528-maximize-the-minimum-powered-city/solution.java) |
@@ -83,11 +84,10 @@
 | maximum-nesting-depth-of-two-valid-parentheses-strings | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Solution](./solutions/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
 | maximum-number-of-jumps-to-reach-the-last-index | Maximum Number of Jumps to Reach the Last Index | Medium | java | [Problem](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Solution](./solutions/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | maximum-number-of-non-overlapping-substrings | 1520. Maximum Number Of Non Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
+| merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
-| merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
-| categorize-box-according-to-criteria | 2525. Categorize Box According To Criteria | Easy | java | [Problem](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Solution](./solutions/Easy/2525-categorize-box-according-to-criteria/solution.java) |
 | minimum-add-to-make-parentheses-valid | Minimum Add to Make Parentheses Valid | Medium | java | [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](./solutions/Medium/0921-minimum-add-to-make-parentheses-valid/solution.java) |
 | minimum-initial-energy-to-finish-tasks | Minimum Initial Energy to Finish Tasks | Hard | java | [Problem](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](./solutions/Hard/1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | 4344. Minimum Operations To Make Every Element Palindromic | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/4344-minimum-operations-to-make-every-element-palindromic/solution.py) |
@@ -96,9 +96,9 @@
 | count-values-with-equally-spaced-occurrences-i | 4415. Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | cyclically-shift-rows-and-columns | 4416. Cyclically Shift Rows And Columns | Easy | java | [Problem](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Solution](./solutions/Easy/4416-cyclically-shift-rows-and-columns/solution.java) |
 | minimum-path-sum | Minimum Path Sum | Medium | python | [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./solutions/Medium/0064-minimum-path-sum/solution.py) |
+| minimum-window-substring | Minimum Window Substring | Hard | python3 | [Problem](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./solutions/Hard/0076-minimum-window-substring/solution.py) |
 | n-queens | N-Queens | Hard | java | [Problem](https://leetcode.com/problems/n-queens/) | [Solution](./solutions/Hard/0051-n-queens/solution.java) |
 | n-queens-ii | N-Queens II | Hard | java | [Problem](https://leetcode.com/problems/n-queens-ii/) | [Solution](./solutions/Hard/0052-n-queens-ii/solution.java) |
-| number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | permutation-sequence | Permutation Sequence | Hard | java | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.java) |
 | permutations-ii | Permutations II | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
 | plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
@@ -107,6 +107,7 @@
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
 | search-a-2d-matrix | 74. Search A 2d Matrix | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.java) |
 | score-of-parentheses | 856. Score Of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
+| number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | separate-the-digits-in-an-array | Separate the Digits in an Array | Easy | java | [Problem](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Solution](./solutions/Easy/2553-separate-the-digits-in-an-array/solution.java) |
 | set-matrix-zeroes | Set Matrix Zeroes | Medium | java | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.java) |
 | simplify-path | Simplify Path | Medium | java | [Problem](https://leetcode.com/problems/simplify-path/) | [Solution](./solutions/Medium/0071-simplify-path/solution.java) |
