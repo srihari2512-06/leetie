@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 117 Solved
+## Progress Summary: 118 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -85,10 +85,11 @@
 | maximum-nesting-depth-of-two-valid-parentheses-strings | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Solution](./solutions/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
 | maximum-number-of-jumps-to-reach-the-last-index | Maximum Number of Jumps to Reach the Last Index | Medium | java | [Problem](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Solution](./solutions/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | maximum-number-of-non-overlapping-substrings | 1520. Maximum Number Of Non Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
-| merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
+| merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
+| minimum-add-to-make-parentheses-valid | Minimum Add to Make Parentheses Valid | Medium | java | [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](./solutions/Medium/0921-minimum-add-to-make-parentheses-valid/solution.java) |
 | minimum-initial-energy-to-finish-tasks | Minimum Initial Energy to Finish Tasks | Hard | java | [Problem](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](./solutions/Hard/1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | 4344. Minimum Operations To Make Every Element Palindromic | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/4344-minimum-operations-to-make-every-element-palindromic/solution.py) |
 | minimum-days-to-score-exactly-n-points | 4406. Minimum Days To Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
