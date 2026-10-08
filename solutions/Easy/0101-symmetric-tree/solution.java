@@ -4,7 +4,7 @@
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/symmetric-tree/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 42656000 (beats 0%)
+// Memory   : 42360000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
@@ -27,6 +27,7 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
+        if(root==null) return false;
         if(root.left==root.right){
             return true;
         }
