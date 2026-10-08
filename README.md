@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 129 Solved
+## Progress Summary: 130 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -58,9 +58,6 @@
 | find-two-non-overlapping-sub-arrays-each-with-target-sum | 1477. Find Two Non Overlapping Sub Arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | 1614. Maximum Nesting Depth Of The Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
 | check-if-array-is-sorted-and-rotated | 1752. Check If Array Is Sorted And Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
-| generate-parentheses | Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
-| group-anagrams | Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
-| image-overlap | 835. Image Overlap | Medium | java | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.java) |
 | merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
 | count-pairs-of-nodes | 1782. Count Pairs Of Nodes | Hard | java | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | 1807. Evaluate The Bracket Pairs Of A String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
@@ -84,6 +81,9 @@
 | construct-uniform-parity-array-i | 3875. Construct Uniform Parity Array I | Easy | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.java) |
 | count-shadow-pairs-ii | 4326. Count Shadow Pairs Ii | Hard | python3 | [Problem](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Solution](./solutions/Hard/4326-count-shadow-pairs-ii/solution.py) |
 | count-shadow-pairs-i | 4328. Count Shadow Pairs I | Medium | java | [Problem](https://leetcode.com/problems/count-shadow-pairs-i/) | [Solution](./solutions/Medium/4328-count-shadow-pairs-i/solution.java) |
+| generate-parentheses | Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
+| group-anagrams | Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
+| image-overlap | 835. Image Overlap | Medium | java | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.java) |
 | insert-interval | Insert Interval | Medium | java | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.java) |
 | jump-game | Jump Game | Medium | java | [Problem](https://leetcode.com/problems/jump-game/) | [Solution](./solutions/Medium/0055-jump-game/solution.java) |
 | length-of-last-word | Length of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
@@ -92,6 +92,7 @@
 | maximum-number-of-jumps-to-reach-the-last-index | Maximum Number of Jumps to Reach the Last Index | Medium | java | [Problem](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Solution](./solutions/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | maximum-number-of-non-overlapping-substrings | 1520. Maximum Number Of Non Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
+| maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | merge-sorted-array | Merge Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./solutions/Easy/0088-merge-sorted-array/solution.java) |
 | minimum-add-to-make-parentheses-valid | Minimum Add to Make Parentheses Valid | Medium | java | [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](./solutions/Medium/0921-minimum-add-to-make-parentheses-valid/solution.java) |
@@ -105,6 +106,7 @@
 | minimum-window-substring | Minimum Window Substring | Hard | python3 | [Problem](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./solutions/Hard/0076-minimum-window-substring/solution.py) |
 | n-queens | N-Queens | Hard | java | [Problem](https://leetcode.com/problems/n-queens/) | [Solution](./solutions/Hard/0051-n-queens/solution.java) |
 | n-queens-ii | N-Queens II | Hard | java | [Problem](https://leetcode.com/problems/n-queens-ii/) | [Solution](./solutions/Hard/0052-n-queens-ii/solution.java) |
+| number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | permutation-sequence | Permutation Sequence | Hard | java | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.java) |
 | permutations-ii | Permutations II | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
 | plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
@@ -113,13 +115,12 @@
 | remove-invalid-parentheses | Remove Invalid Parentheses | Hard | java | [Problem](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](./solutions/Hard/0301-remove-invalid-parentheses/solution.java) |
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
+| same-tree | Same Tree | Easy | java | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](./solutions/Easy/0100-same-tree/solution.java) |
 | search-a-2d-matrix | 74. Search A 2d Matrix | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.java) |
 | score-of-parentheses | 856. Score Of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
 | separate-the-digits-in-an-array | Separate the Digits in an Array | Easy | java | [Problem](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Solution](./solutions/Easy/2553-separate-the-digits-in-an-array/solution.java) |
 | set-matrix-zeroes | Set Matrix Zeroes | Medium | java | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.java) |
 | simplify-path | Simplify Path | Medium | java | [Problem](https://leetcode.com/problems/simplify-path/) | [Solution](./solutions/Medium/0071-simplify-path/solution.java) |
-| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
-| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
 | spiral-matrix | Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
 | sqrtx | Sqrt(x) | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
@@ -127,9 +128,9 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
-| number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
-| maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | unique-3-digit-even-numbers | 3483. Unique 3 Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
+| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
+| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
 | unique-paths | Unique Paths | Medium | javascript | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.js) |
 | unique-paths-ii | Unique Paths II | Medium | java | [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./solutions/Medium/0063-unique-paths-ii/solution.java) |
 | valid-number | Valid Number | Hard | java | [Problem](https://leetcode.com/problems/valid-number/) | [Solution](./solutions/Hard/0065-valid-number/solution.java) |
