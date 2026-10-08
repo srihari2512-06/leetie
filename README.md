@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 128 Solved
+## Progress Summary: 129 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | climbing-stairs | Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](./solutions/Easy/0070-climbing-stairs/solution.java) |
 | combinations | Combinations | Medium | java | [Problem](https://leetcode.com/problems/combinations/) | [Solution](./solutions/Medium/0077-combinations/solution.java) |
 | consecutive-numbers | Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
@@ -27,11 +28,11 @@
 | path-sum-ii | 113. Path Sum Ii | Medium | java | [Problem](https://leetcode.com/problems/path-sum-ii/) | [Solution](./solutions/Medium/0113-path-sum-ii/solution.java) |
 | flatten-binary-tree-to-linked-list | 114. Flatten Binary Tree To Linked List | Medium | java | [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./solutions/Medium/0114-flatten-binary-tree-to-linked-list/solution.java) |
 | distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
-| populating-next-right-pointers-in-each-node | 116. Populating Next Right Pointers In Each Node | Medium | java | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./solutions/Medium/0116-populating-next-right-pointers-in-each-node/solution.java) |
-| binary-tree-postorder-traversal | 145. Binary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0145-binary-tree-postorder-traversal/solution.java) |
 | duplicate-emails | Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/duplicate-emails/) | [Solution](./solutions/Easy/0182-duplicate-emails/solution.sql) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | employees-earning-more-than-their-managers | Employees Earning More Than Their Managers | Easy | mysql | [Problem](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](./solutions/Easy/0181-employees-earning-more-than-their-managers/solution.sql) |
+| populating-next-right-pointers-in-each-node | 116. Populating Next Right Pointers In Each Node | Medium | java | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./solutions/Medium/0116-populating-next-right-pointers-in-each-node/solution.java) |
+| binary-tree-postorder-traversal | 145. Binary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0145-binary-tree-postorder-traversal/solution.java) |
 | find-minimum-in-rotated-sorted-array | 153. Find Minimum In Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
 | find-minimum-in-rotated-sorted-array-ii | 154. Find Minimum In Rotated Sorted Array Ii | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | two-sum-ii-input-array-is-sorted | 167. Two Sum Ii Input Array Is Sorted | Medium | java | [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./solutions/Medium/0167-two-sum-ii-input-array-is-sorted/solution.java) |
@@ -90,7 +91,7 @@
 | maximum-nesting-depth-of-two-valid-parentheses-strings | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Solution](./solutions/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
 | maximum-number-of-jumps-to-reach-the-last-index | Maximum Number of Jumps to Reach the Last Index | Medium | java | [Problem](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Solution](./solutions/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | maximum-number-of-non-overlapping-substrings | 1520. Maximum Number Of Non Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
-| maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
+| maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | merge-sorted-array | Merge Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./solutions/Easy/0088-merge-sorted-array/solution.java) |
 | minimum-add-to-make-parentheses-valid | Minimum Add to Make Parentheses Valid | Medium | java | [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](./solutions/Medium/0921-minimum-add-to-make-parentheses-valid/solution.java) |
@@ -127,7 +128,7 @@
 | sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
-| maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
+| maximum-score-of-non-overlapping-intervals | 3414. Maximum Score Of Non Overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | unique-3-digit-even-numbers | 3483. Unique 3 Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | unique-paths | Unique Paths | Medium | javascript | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.js) |
 | unique-paths-ii | Unique Paths II | Medium | java | [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./solutions/Medium/0063-unique-paths-ii/solution.java) |
