@@ -4,7 +4,7 @@
 // Tags     : String, Stack, Bracket Sequences
 // Link     : https://leetcode.com/problems/remove-outermost-parentheses/
 // Runtime  : 2 ms (beats 100%)
-// Memory   : 43820000 (beats 23%)
+// Memory   : 43652000 (beats 43%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
