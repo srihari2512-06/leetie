@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 115 Solved
+## Progress Summary: 116 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,12 +14,14 @@
 | check-if-there-is-a-valid-parentheses-string-path | Check if There Is a Valid Parentheses String Path | Hard | python | [Problem](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](./solutions/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/solution.py) |
 | count-days-spent-together | Count Days Spent Together | Easy | java | [Problem](https://leetcode.com/problems/count-days-spent-together/) | [Solution](./solutions/Easy/2409-count-days-spent-together/solution.java) |
 | count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | java | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.java) |
+| count-pairs-of-nodes | 1782. Count Pairs Of Nodes | Hard | java | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.java) |
 | count-the-number-of-special-characters-i | Count the Number of Special Characters I | Easy | java | [Problem](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Solution](./solutions/Easy/3120-count-the-number-of-special-characters-i/solution.java) |
 | customer-placing-the-largest-number-of-orders | Customer Placing the Largest Number of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | department-top-three-salaries | Department Top Three Salaries | Hard | mysql | [Problem](https://leetcode.com/problems/department-top-three-salaries/) | [Solution](./solutions/Hard/0185-department-top-three-salaries/solution.sql) |
+| destroying-asteroids | Destroying Asteroids | Medium | java | [Problem](https://leetcode.com/problems/destroying-asteroids/) | [Solution](./solutions/Medium/2126-destroying-asteroids/solution.java) |
+| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | duplicate-emails | Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/duplicate-emails/) | [Solution](./solutions/Easy/0182-duplicate-emails/solution.sql) |
-| element-appearing-more-than-25-in-sorted-array | 1287. Element Appearing More Than 25 In Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Solution](./solutions/Easy/1287-element-appearing-more-than-25-in-sorted-array/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | Evaluate the Bracket Pairs of a String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
 | find-target-indices-after-sorting-array | Find Target Indices After Sorting Array | Easy | python3 | [Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Solution](./solutions/Easy/2089-find-target-indices-after-sorting-array/solution.py) |
 | first-bad-version | First Bad Version | Easy | java | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.java) |
@@ -32,6 +34,7 @@
 | search-a-2d-matrix | 74. Search A 2d Matrix | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.java) |
 | search-in-rotated-sorted-array-ii | 81. Search In Rotated Sorted Array Ii | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./solutions/Medium/0081-search-in-rotated-sorted-array-ii/solution.java) |
 | subsets-ii | 90. Subsets Ii | Medium | java | [Problem](https://leetcode.com/problems/subsets-ii/) | [Solution](./solutions/Medium/0090-subsets-ii/solution.java) |
+| symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | construct-binary-tree-from-preorder-and-inorder-traversal | 105. Construct Binary Tree From Preorder And Inorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./solutions/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.java) |
 | construct-binary-tree-from-inorder-and-postorder-traversal | 106. Construct Binary Tree From Inorder And Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.java) |
 | binary-tree-level-order-traversal-ii | 107. Binary Tree Level Order Traversal Ii | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./solutions/Medium/0107-binary-tree-level-order-traversal-ii/solution.java) |
@@ -57,6 +60,7 @@
 | distribute-coins-in-binary-tree | 979. Distribute Coins In Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Solution](./solutions/Medium/0979-distribute-coins-in-binary-tree/solution.java) |
 | design-skiplist | 1206. Design Skiplist | Hard | java | [Problem](https://leetcode.com/problems/design-skiplist/) | [Solution](./solutions/Hard/1206-design-skiplist/solution.java) |
 | iterator-for-combination | 1286. Iterator For Combination | Medium | java | [Problem](https://leetcode.com/problems/iterator-for-combination/) | [Solution](./solutions/Medium/1286-iterator-for-combination/solution.java) |
+| element-appearing-more-than-25-in-sorted-array | 1287. Element Appearing More Than 25 In Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Solution](./solutions/Easy/1287-element-appearing-more-than-25-in-sorted-array/solution.java) |
 | remove-covered-intervals | 1288. Remove Covered Intervals | Medium | java | [Problem](https://leetcode.com/problems/remove-covered-intervals/) | [Solution](./solutions/Medium/1288-remove-covered-intervals/solution.java) |
 | cinema-seat-allocation | 1386. Cinema Seat Allocation | Medium | java | [Problem](https://leetcode.com/problems/cinema-seat-allocation/) | [Solution](./solutions/Medium/1386-cinema-seat-allocation/solution.java) |
 | find-two-non-overlapping-sub-arrays-each-with-target-sum | 1477. Find Two Non Overlapping Sub Arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
@@ -65,11 +69,8 @@
 | maximum-alternating-sum-of-squares | Maximum Alternating Sum of Squares | Medium | java | [Problem](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Solution](./solutions/Medium/3727-maximum-alternating-sum-of-squares/solution.java) |
 | maximum-k-to-sort-a-permutation | Maximum K to Sort a Permutation | Medium | java | [Problem](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Solution](./solutions/Medium/3644-maximum-k-to-sort-a-permutation/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
-| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| symmetric-tree | 101. Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | maximum-number-of-non-overlapping-substrings | 1520. Maximum Number Of Non Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
 | merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
-| count-pairs-of-nodes | 1782. Count Pairs Of Nodes | Hard | java | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.java) |
 | stone-game-viii | 1872. Stone Game Viii | Hard | java | [Problem](https://leetcode.com/problems/stone-game-viii/) | [Solution](./solutions/Hard/1872-stone-game-viii/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | 2058. Find The Minimum And Maximum Number Of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
 | count-nodes-equal-to-average-of-subtree | 2265. Count Nodes Equal To Average Of Subtree | Medium | java | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.java) |
