@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 164 Solved
+## Progress Summary: 165 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -156,6 +156,7 @@
 | construct-uniform-parity-array-i | 3875. Construct Uniform Parity Array I | Easy | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.java) |
 | sum-of-sortable-integers | 3886. Sum Of Sortable Integers | Hard | java | [Problem](https://leetcode.com/problems/sum-of-sortable-integers/) | [Solution](./solutions/Hard/3886-sum-of-sortable-integers/solution.java) |
 | smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
+| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
 | minimum-operations-to-sort-a-permutation | 3942. Minimum Operations To Sort A Permutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Solution](./solutions/Medium/3942-minimum-operations-to-sort-a-permutation/solution.java) |
 | count-shadow-pairs-ii | 4326. Count Shadow Pairs Ii | Hard | python3 | [Problem](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Solution](./solutions/Hard/4326-count-shadow-pairs-ii/solution.py) |
 | count-shadow-pairs-i | 4328. Count Shadow Pairs I | Medium | java | [Problem](https://leetcode.com/problems/count-shadow-pairs-i/) | [Solution](./solutions/Medium/4328-count-shadow-pairs-i/solution.java) |
@@ -165,8 +166,8 @@
 | count-values-with-equally-spaced-occurrences-i | 4415. Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | cyclically-shift-rows-and-columns | 4416. Cyclically Shift Rows And Columns | Easy | java | [Problem](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Solution](./solutions/Easy/4416-cyclically-shift-rows-and-columns/solution.java) |
 | sum-root-to-leaf-numbers | Sum Root to Leaf Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./solutions/Medium/0129-sum-root-to-leaf-numbers/solution.java) |
+| surrounded-regions | Surrounded Regions | Medium | python3 | [Problem](https://leetcode.com/problems/surrounded-regions/) | [Solution](./solutions/Medium/0130-surrounded-regions/solution.py) |
 | triangle | Triangle | Medium | java | [Problem](https://leetcode.com/problems/triangle/) | [Solution](./solutions/Medium/0120-triangle/solution.java) |
 | unique-3-digit-even-numbers | 3483. Unique 3 Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
-| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
 | word-ladder | Word Ladder | Hard | java | [Problem](https://leetcode.com/problems/word-ladder/) | [Solution](./solutions/Hard/0127-word-ladder/solution.java) |
 | word-ladder-ii | Word Ladder II | Hard | cpp | [Problem](https://leetcode.com/problems/word-ladder-ii/) | [Solution](./solutions/Hard/0126-word-ladder-ii/solution.cpp) |
