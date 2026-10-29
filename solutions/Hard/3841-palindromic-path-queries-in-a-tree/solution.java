@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, String, Divide and Conquer, Bit Manipulation, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree
 // Link     : https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42156000 (beats 0%)
+// Runtime  : 56 ms (beats 100%)
+// Memory   : 169356000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
