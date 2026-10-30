@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 204 Solved
+## Progress Summary: 205 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,7 +19,6 @@
 | counter-ii | Counter II | Easy | javascript | [Problem](https://leetcode.com/problems/counter-ii/) | [Solution](./solutions/Easy/2665-counter-ii/solution.js) |
 | create-grid-with-exactly-one-path | Create Grid With Exactly One Path | Easy | java | [Problem](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Solution](./solutions/Easy/3963-create-grid-with-exactly-one-path/solution.java) |
 | create-hello-world-function | Create Hello World Function | Easy | javascript | [Problem](https://leetcode.com/problems/create-hello-world-function/) | [Solution](./solutions/Easy/2667-create-hello-world-function/solution.js) |
-| distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | java | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.java) |
 | filter-elements-from-array | Filter Elements from Array | Easy | javascript | [Problem](https://leetcode.com/problems/filter-elements-from-array/) | [Solution](./solutions/Easy/2634-filter-elements-from-array/solution.js) |
@@ -34,6 +33,7 @@
 | linked-list-random-node | Linked List Random Node | Medium | python3 | [Problem](https://leetcode.com/problems/linked-list-random-node/) | [Solution](./solutions/Medium/0382-linked-list-random-node/solution.py) |
 | longest-substring-without-repeating-characters | 3. Longest Substring Without Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./solutions/Medium/0003-longest-substring-without-repeating-characters/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
+| minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
 | nth-digit | Nth Digit | Medium | python3 | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.py) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | palindrome-partitioning-ii | Palindrome Partitioning II | Hard | java | [Problem](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Solution](./solutions/Hard/0132-palindrome-partitioning-ii/solution.java) |
@@ -101,6 +101,7 @@
 | convert-sorted-list-to-binary-search-tree | 109. Convert Sorted List To Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution](./solutions/Medium/0109-convert-sorted-list-to-binary-search-tree/solution.java) |
 | path-sum-ii | 113. Path Sum Ii | Medium | java | [Problem](https://leetcode.com/problems/path-sum-ii/) | [Solution](./solutions/Medium/0113-path-sum-ii/solution.java) |
 | flatten-binary-tree-to-linked-list | 114. Flatten Binary Tree To Linked List | Medium | java | [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./solutions/Medium/0114-flatten-binary-tree-to-linked-list/solution.java) |
+| distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | populating-next-right-pointers-in-each-node | 116. Populating Next Right Pointers In Each Node | Medium | java | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./solutions/Medium/0116-populating-next-right-pointers-in-each-node/solution.java) |
 | binary-tree-postorder-traversal | 145. Binary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0145-binary-tree-postorder-traversal/solution.java) |
 | find-minimum-in-rotated-sorted-array | 153. Find Minimum In Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
