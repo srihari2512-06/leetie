@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 194 Solved
+## Progress Summary: 195 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,11 +19,11 @@
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | java | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.java) |
 | filter-elements-from-array | Filter Elements from Array | Easy | javascript | [Problem](https://leetcode.com/problems/filter-elements-from-array/) | [Solution](./solutions/Easy/2634-filter-elements-from-array/solution.js) |
+| find-two-non-overlapping-sub-arrays-each-with-target-sum | 1477. Find Two Non Overlapping Sub Arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | function-composition | Function Composition | Easy | javascript | [Problem](https://leetcode.com/problems/function-composition/) | [Solution](./solutions/Easy/2629-function-composition/solution.js) |
 | gas-station | Gas Station | Medium | cpp | [Problem](https://leetcode.com/problems/gas-station/) | [Solution](./solutions/Medium/0134-gas-station/solution.cpp) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.java) |
 | image-overlap | 835. Image Overlap | Medium | java | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.java) |
-| find-two-non-overlapping-sub-arrays-each-with-target-sum | 1477. Find Two Non Overlapping Sub Arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.java) |
 | insert-delete-getrandom-o1-duplicates-allowed | Insert Delete GetRandom O(1) - Duplicates allowed | Hard | python3 | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.py) |
 | largest-divisible-subset | Largest Divisible Subset | Medium | java | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.java) |
@@ -52,6 +52,7 @@
 | edit-distance | 72. Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | set-matrix-zeroes | 73. Set Matrix Zeroes | Medium | java | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.java) |
 | search-a-2d-matrix | 74. Search A 2d Matrix | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.java) |
+| minimum-window-substring | 76. Minimum Window Substring | Hard | python3 | [Problem](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./solutions/Hard/0076-minimum-window-substring/solution.py) |
 | combinations | 77. Combinations | Medium | java | [Problem](https://leetcode.com/problems/combinations/) | [Solution](./solutions/Medium/0077-combinations/solution.java) |
 | subsets | 78. Subsets | Medium | java | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.java) |
 | search-in-rotated-sorted-array-ii | 81. Search In Rotated Sorted Array Ii | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./solutions/Medium/0081-search-in-rotated-sorted-array-ii/solution.java) |
@@ -95,20 +96,20 @@
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | minimum-insertions-to-balance-a-parentheses-string | 1541. Minimum Insertions To Balance A Parentheses String | Medium | java | [Problem](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Solution](./solutions/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) |
 | number-of-ways-to-reorder-array-to-get-same-bst | 1569. Number Of Ways To Reorder Array To Get Same Bst | Hard | java | [Problem](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Solution](./solutions/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.java) |
+| number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | minimum-initial-energy-to-finish-tasks | 1665. Minimum Initial Energy To Finish Tasks | Hard | java | [Problem](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](./solutions/Hard/1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | 1807. Evaluate The Bracket Pairs Of A String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
 | palindrome-partitioning-ii | Palindrome Partitioning II | Hard | java | [Problem](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Solution](./solutions/Hard/0132-palindrome-partitioning-ii/solution.java) |
 | palindromic-path-queries-in-a-tree | Palindromic Path Queries in a Tree | Hard | java | [Problem](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Solution](./solutions/Hard/3841-palindromic-path-queries-in-a-tree/solution.java) |
 | perfect-rectangle | Perfect Rectangle | Hard | java | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.java) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
-| number-of-sets-of-k-non-overlapping-line-segments | 1621. Number Of Sets Of K Non Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
-| check-if-array-is-sorted-and-rotated | 1752. Check If Array Is Sorted And Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
 | remove-duplicates-from-sorted-list-ii | Remove Duplicates from Sorted List II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./solutions/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.java) |
 | repeated-dna-sequences | Repeated DNA Sequences | Medium | java | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.java) |
+| rotate-function | Rotate Function | Medium | python3 | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.py) |
 | shortest-path-with-at-most-k-consecutive-identical-characters | Shortest Path With At Most K Consecutive Identical Characters | Medium | java | [Problem](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Solution](./solutions/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.java) |
 | shuffle-an-array | Shuffle an Array | Medium | cpp | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.cpp) |
 | sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
-| count-pairs-of-nodes | 1782. Count Pairs Of Nodes | Hard | java | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.java) |
+| check-if-array-is-sorted-and-rotated | 1752. Check If Array Is Sorted And Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
 | stone-game-viii | 1872. Stone Game Viii | Hard | java | [Problem](https://leetcode.com/problems/stone-game-viii/) | [Solution](./solutions/Hard/1872-stone-game-viii/solution.java) |
 | cyclically-rotating-a-grid | 1914. Cyclically Rotating A Grid | Medium | java | [Problem](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Solution](./solutions/Medium/1914-cyclically-rotating-a-grid/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | 2058. Find The Minimum And Maximum Number Of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
@@ -157,7 +158,6 @@
 | plus-one | 66. Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
 | sqrtx | 69. Sqrtx | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
 | climbing-stairs | 70. Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](./solutions/Easy/0070-climbing-stairs/solution.java) |
-| minimum-window-substring | 76. Minimum Window Substring | Hard | python3 | [Problem](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./solutions/Hard/0076-minimum-window-substring/solution.py) |
 | merge-sorted-array | 88. Merge Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./solutions/Easy/0088-merge-sorted-array/solution.java) |
 | binary-tree-inorder-traversal | 94. Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | same-tree | 100. Same Tree | Easy | java | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](./solutions/Easy/0100-same-tree/solution.java) |
@@ -175,6 +175,7 @@
 | rank-transform-of-an-array | 1331. Rank Transform Of An Array | Easy | java | [Problem](https://leetcode.com/problems/rank-transform-of-an-array/) | [Solution](./solutions/Easy/1331-rank-transform-of-an-array/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | 1614. Maximum Nesting Depth Of The Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
 | merge-strings-alternately | 1768. Merge Strings Alternately | Easy | java | [Problem](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./solutions/Easy/1768-merge-strings-alternately/solution.java) |
+| count-pairs-of-nodes | 1782. Count Pairs Of Nodes | Hard | java | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.java) |
 | find-target-indices-after-sorting-array | 2089. Find Target Indices After Sorting Array | Easy | python3 | [Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Solution](./solutions/Easy/2089-find-target-indices-after-sorting-array/solution.py) |
 | count-days-spent-together | 2409. Count Days Spent Together | Easy | java | [Problem](https://leetcode.com/problems/count-days-spent-together/) | [Solution](./solutions/Easy/2409-count-days-spent-together/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | 2472. Maximum Number Of Non Overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
