@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 205 Solved
+## Progress Summary: 206 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -39,6 +39,7 @@
 | palindrome-partitioning-ii | Palindrome Partitioning II | Hard | java | [Problem](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Solution](./solutions/Hard/0132-palindrome-partitioning-ii/solution.java) |
 | palindromic-path-queries-in-a-tree | Palindromic Path Queries in a Tree | Hard | java | [Problem](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Solution](./solutions/Hard/3841-palindromic-path-queries-in-a-tree/solution.java) |
 | perfect-rectangle | Perfect Rectangle | Hard | java | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.java) |
+| poor-pigs | Poor Pigs | Hard | java | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.java) |
 | random-pick-index | Random Pick Index | Medium | python3 | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.py) |
 | reconstruct-original-digits-from-english | Reconstruct Original Digits from English | Medium | java | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.java) |
 | remove-duplicates-from-sorted-list-ii | Remove Duplicates from Sorted List II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./solutions/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.java) |
@@ -46,7 +47,6 @@
 | rotate-function | Rotate Function | Medium | python3 | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.py) |
 | shortest-path-with-at-most-k-consecutive-identical-characters | Shortest Path With At Most K Consecutive Identical Characters | Medium | java | [Problem](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Solution](./solutions/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.java) |
 | shuffle-an-array | Shuffle an Array | Medium | cpp | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.cpp) |
-| sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | sum-root-to-leaf-numbers | Sum Root to Leaf Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./solutions/Medium/0129-sum-root-to-leaf-numbers/solution.java) |
 | super-pow | Super Pow | Medium | java | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.java) |
 | surrounded-regions | Surrounded Regions | Medium | python3 | [Problem](https://leetcode.com/problems/surrounded-regions/) | [Solution](./solutions/Medium/0130-surrounded-regions/solution.py) |
@@ -59,6 +59,7 @@
 | generate-parentheses | 22. Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
 | longest-valid-parentheses | 32. Longest Valid Parentheses | Hard | java | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.java) |
 | search-in-rotated-sorted-array | 33. Search In Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
+| sudoku-solver | 37. Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | trapping-rain-water | 42. Trapping Rain Water | Hard | python3 | [Problem](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./solutions/Hard/0042-trapping-rain-water/solution.py) |
 | permutations | 46. Permutations | Medium | java | [Problem](https://leetcode.com/problems/permutations/) | [Solution](./solutions/Medium/0046-permutations/solution.java) |
 | permutations-ii | 47. Permutations Ii | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
