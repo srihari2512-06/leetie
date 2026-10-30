@@ -4,7 +4,7 @@
 // Tags     : Math, Binary Search
 // Link     : https://leetcode.com/problems/smallest-good-base/
 // Runtime  : 1 ms (beats 100%)
-// Memory   : 42248000 (beats 93%)
+// Memory   : 42236000 (beats 93%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
