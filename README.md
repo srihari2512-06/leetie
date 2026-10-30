@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 219 Solved
+## Progress Summary: 220 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,6 +17,7 @@
 | binary-tree-maximum-path-sum | Binary Tree Maximum Path Sum | Hard | java | [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./solutions/Hard/0124-binary-tree-maximum-path-sum/solution.java) |
 | can-i-win | Can I Win | Medium | java | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.java) |
 | construct-the-rectangle | Construct the Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
+| continuous-subarray-sum | Continuous Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.java) |
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | counter | Counter | Easy | javascript | [Problem](https://leetcode.com/problems/counter/) | [Solution](./solutions/Easy/2620-counter/solution.js) |
 | counter-ii | Counter II | Easy | javascript | [Problem](https://leetcode.com/problems/counter-ii/) | [Solution](./solutions/Easy/2665-counter-ii/solution.js) |
