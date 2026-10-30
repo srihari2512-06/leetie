@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 207 Solved
+## Progress Summary: 208 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | best-time-to-buy-and-sell-stock-iii | Best Time to Buy and Sell Stock III | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](./solutions/Hard/0123-best-time-to-buy-and-sell-stock-iii/solution.java) |
 | best-time-to-buy-and-sell-stock-iv | Best Time to Buy and Sell Stock IV | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](./solutions/Hard/0188-best-time-to-buy-and-sell-stock-iv/solution.java) |
 | binary-tree-maximum-path-sum | Binary Tree Maximum Path Sum | Hard | java | [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./solutions/Hard/0124-binary-tree-maximum-path-sum/solution.java) |
+| can-i-win | Can I Win | Medium | java | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.java) |
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | counter | Counter | Easy | javascript | [Problem](https://leetcode.com/problems/counter/) | [Solution](./solutions/Easy/2620-counter/solution.js) |
 | counter-ii | Counter II | Easy | javascript | [Problem](https://leetcode.com/problems/counter-ii/) | [Solution](./solutions/Easy/2665-counter-ii/solution.js) |
