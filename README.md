@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 220 Solved
+## Progress Summary: 221 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -63,6 +63,7 @@
 | super-pow | Super Pow | Medium | java | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.java) |
 | to-be-or-not-to-be | To Be Or Not To Be | Easy | javascript | [Problem](https://leetcode.com/problems/to-be-or-not-to-be/) | [Solution](./solutions/Easy/2704-to-be-or-not-to-be/solution.js) |
 | total-hamming-distance | Total Hamming Distance | Medium | java | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.java) |
+| twisted-mirror-path-count | Twisted Mirror Path Count | Medium | java | [Problem](https://leetcode.com/problems/twisted-mirror-path-count/) | [Solution](./solutions/Medium/3665-twisted-mirror-path-count/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | zigzag-conversion | 6. Zigzag Conversion | Medium | java | [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./solutions/Medium/0006-zigzag-conversion/solution.java) |
 | container-with-most-water | 11. Container With Most Water | Medium | java | [Problem](https://leetcode.com/problems/container-with-most-water/) | [Solution](./solutions/Medium/0011-container-with-most-water/solution.java) |
