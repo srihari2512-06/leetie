@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Stack, Segment Tree, Queue, Sliding Window, Monotonic Stack, Monotonic Queue
 // Link     : https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
-// Runtime  : 27 ms (beats 93%)
-// Memory   : 131900000 (beats 46%)
+// Runtime  : 28 ms (beats 89%)
+// Memory   : 131964000 (beats 46%)
 // Language : java
 // Copyright: (c) 2026 srihari2512-06. All rights reserved.
 // Synced by: leetie
