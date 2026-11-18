@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 231 Solved
+## Progress Summary: 232 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -140,6 +140,7 @@
 | minimum-cost-to-acquire-required-items | Minimum Cost to Acquire Required Items | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Solution](./solutions/Medium/3789-minimum-cost-to-acquire-required-items/solution.cpp) |
 | minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
 | minimum-moves-to-equal-array-elements-ii | Minimum Moves to Equal Array Elements II | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.java) |
+| minimum-number-of-changes-to-make-binary-string-beautiful | Minimum Number of Changes to Make Binary String Beautiful | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Solution](./solutions/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/solution.java) |
 | minimum-positive-sum-subarray | Minimum Positive Sum Subarray | Easy | java | [Problem](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Solution](./solutions/Easy/3364-minimum-positive-sum-subarray/solution.java) |
 | nth-digit | Nth Digit | Medium | python3 | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.py) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
